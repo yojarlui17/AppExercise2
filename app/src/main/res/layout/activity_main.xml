@@ -62,6 +62,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="204dp"
         android:layout_marginTop="28dp"
+        android:onClick="estatus"
         android:text="Evaluar"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
